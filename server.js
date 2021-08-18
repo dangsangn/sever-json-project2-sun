@@ -131,7 +131,7 @@ server.use(/^(?!\/auth).*$/, (req, res, next) => {
 });
 
 server.use(router);
-
+// const PORT =
 server.listen(8000, () => {
   console.log("Run Auth API Server");
 });
