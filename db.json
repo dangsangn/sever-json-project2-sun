@@ -33,6 +33,19 @@
       "updatedAt": 1626676566146,
       "id": 3,
       "role": "admin"
+    },
+    {
+      "email": "vu@gmail.com",
+      "password": "123456",
+      "confirm": "123456",
+      "prefix": "84",
+      "phone": "123456789",
+      "address": "hue",
+      "gender": "male",
+      "agreement": true,
+      "createdAt": 1629306133689,
+      "updatedAt": 1629306133689,
+      "id": 4
     }
   ],
   "categories": [
